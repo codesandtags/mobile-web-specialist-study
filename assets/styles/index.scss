@@ -1,0 +1,73 @@
+// Apply a natural box layout model to all elements
+// but allowing components to change
+// http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+
+body, html {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: saddlebrown;
+}
+
+main {
+    max-width: 1000px;
+    margin: auto;
+
+    h1, h2, h3 {
+        text-align: center;
+    }
+}
+
+.main-topics {
+    display: flex;
+    flex-direction: column;
+
+    ul {
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        li {
+            border: .5px solid white;
+            width: 300px;
+            height: 100px;
+            font-family: 'Montserrat', sans-serif;
+
+            a {
+                height: 100%;
+                width: 100%;
+                padding: 15px;
+                display: flex;
+                justify-content: start;
+                align-items: center;
+                text-decoration: none;
+                transition: all .7s;
+                background: #31a2f3;
+                font-size: 18px;
+                color: white;
+                font-weight: 100;
+
+                &:hover {
+                    background: greenyellow;
+                    color: black;
+                }
+            }
+        }
+    }
+}

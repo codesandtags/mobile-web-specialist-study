@@ -1,0 +1,21 @@
+body {
+    background: #31a2f3;
+    color: white;
+    font-size: 20px;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        background: greenyellow;
+        color: black;
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    body {
+        background: orangered;
+        color: white;
+        font-size: 30px;
+    }
+}

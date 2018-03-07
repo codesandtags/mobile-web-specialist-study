@@ -1,0 +1,7 @@
+@media screen and (min-width: 600px) {
+    body {
+        background: greenyellow;
+        color: black;
+        font-size: 30px;
+    }
+}

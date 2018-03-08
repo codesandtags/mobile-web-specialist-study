@@ -12,3 +12,4 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | CSS Media Queries for Devices | https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ |
 | Example Responsive Patterns | https://codepen.io/codesandtags/pen/yvmpeQ |
 | Example Responsive Tables | https://codepen.io/codesandtags/pen/XErZrb |
+| Line Clampin for Responsive | https://css-tricks.com/line-clampin/ |

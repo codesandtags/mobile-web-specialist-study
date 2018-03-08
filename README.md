@@ -13,3 +13,5 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Example Responsive Patterns | https://codepen.io/codesandtags/pen/yvmpeQ |
 | Example Responsive Tables | https://codepen.io/codesandtags/pen/XErZrb |
 | Line Clampin for Responsive | https://css-tricks.com/line-clampin/ |
+| Guide for Flexbox | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
+| Guide for Grid | https://css-tricks.com/snippets/css/complete-guide-grid/ |

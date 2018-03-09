@@ -15,3 +15,10 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Line Clampin for Responsive | https://css-tricks.com/line-clampin/ |
 | Guide for Flexbox | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
 | Guide for Grid | https://css-tricks.com/snippets/css/complete-guide-grid/ |
+
+
+## Performance
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Brotli Compresion Algorithm | https://github.com/google/brotli |

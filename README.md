@@ -15,6 +15,10 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Line Clampin for Responsive | https://css-tricks.com/line-clampin/ |
 | Guide for Flexbox | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
 | Guide for Grid | https://css-tricks.com/snippets/css/complete-guide-grid/ |
+| Responsive Images srcset | https://css-tricks.com/responsive-images-css/ |
+| Responsive Images with examples | https://cloudinary.com/blog/automatically_art_directed_responsive_images |
+| Touch events | https://developer.mozilla.org/en-US/docs/Web/API/Touch_events |
+| Events Reference | https://developer.mozilla.org/en-US/docs/Web/Events |
 
 
 ## Performance

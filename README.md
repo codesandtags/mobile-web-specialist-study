@@ -19,6 +19,8 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Responsive Images with examples | https://cloudinary.com/blog/automatically_art_directed_responsive_images |
 | Touch events | https://developer.mozilla.org/en-US/docs/Web/API/Touch_events |
 | Events Reference | https://developer.mozilla.org/en-US/docs/Web/Events |
+| Optimize images tinypng | https://tinypng.com/ |
+| Optimize images imagesoptimizer | http://www.imageoptimizer.net/Pages/Home.aspx |
 
 
 ## Performance

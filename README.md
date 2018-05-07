@@ -29,3 +29,13 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | ------------- |:-------------:| 
 | Brotli Compresion Algorithm | https://github.com/google/brotli |
 | Difference between defer and async in html | http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html |
+
+
+## JavaScfript / ES6 / ES7
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| JavaScript top Tutorials | https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e |
+
+
+

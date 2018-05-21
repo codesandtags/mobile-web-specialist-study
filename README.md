@@ -2,6 +2,15 @@
 
 Here you will find the links that I've read in order to get the knowledge for each topic.
 
+
+## 0. Articles about the Certification
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Success case about someone who has passed the certification | https://medium.com/@dimoff2000/how-to-become-google-certified-mobile-web-specialist-307f62cb91a3 | 
+
+
+
 ## 1. Basic Website Layout and Styling
 
 | Description   | URL           | 

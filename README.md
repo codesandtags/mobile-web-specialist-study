@@ -32,24 +32,37 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Optimize images tinypng | https://tinypng.com/ |
 | Optimize images imagesoptimizer | http://www.imageoptimizer.net/Pages/Home.aspx |
 
+## 2. Front-End Networking 
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Fetch Window polyfill | https://github.github.io/fetch/ |
 
-## Performance
+## 3. Accesibility (A11y)
+| Description   | URL           | 
+| ------------- |:-------------:| 
+|  |  |
+
+## 4. Progressive Web Apps
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Image Capture API Demo | https://simpl.info/imagecapture/ |
+| Oficial Training Guide for PWA | [Official Training](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0) |
+
+
+## 5. Performance
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Brotli Compresion Algorithm | https://github.com/google/brotli |
 | Difference between defer and async in html | http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html |
 
-## Progressive Web Apps
-
+## 6. Testing and Debugging
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| Image Capture API Demo | https://simpl.info/imagecapture/ |
-| Oficial Training Guide for PWA | [Official Training](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0)
-  |
+|  |  |
 
 
-## JavaScfript / ES6 / ES7
+## 7. JavaScfript / ES6 / ES7 / ESX
 
 | Description   | URL           | 
 | ------------- |:-------------:| 

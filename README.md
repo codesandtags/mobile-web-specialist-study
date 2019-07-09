@@ -40,7 +40,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 ## 3. Accesibility (A11y)
 | Description   | URL           | 
 | ------------- |:-------------:| 
-|  |  |
+| WebAIM's WCAG 2 Checklist | https://webaim.org/standards/wcag/checklist |
 
 ## 4. Progressive Web Apps
 | Description   | URL           | 

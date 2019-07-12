@@ -43,6 +43,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | WebAIM's WCAG 2 Checklist | https://webaim.org/standards/wcag/checklist |
 | Google Accesibility Course | https://www.udacity.com/course/web-accessibility--ud891 |
 | Focus Guidelines| https://html.spec.whatwg.org/multipage/interaction.html#focus |
+| WAI-ARIA Roles | https://www.w3.org/TR/wai-aria-1.0/roles#superclassrole |
 
 ## 4. Progressive Web Apps
 | Description   | URL           | 

@@ -9,6 +9,8 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | ------------- |:-------------:| 
 | Success case about someone who has passed the certification | https://medium.com/@dimoff2000/how-to-become-google-certified-mobile-web-specialist-307f62cb91a3 | 
 | Web official page about the certification | https://developers.google.com/training/certification/mobile-web-specialist/ |
+| Details about the a person certified | https://blog.techmagic.co/how-to-become-a-google-mobile-web-specialist/|
+| More details | https://mpasierbski.com/post/2019-01-24-2019-01-24-congratulations-you-are-now-a-google-certified-mobile-web-specialist/ |
 
 
 

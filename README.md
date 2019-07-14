@@ -46,6 +46,8 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Google Accesibility Course | https://www.udacity.com/course/web-accessibility--ud891 |
 | Focus Guidelines| https://html.spec.whatwg.org/multipage/interaction.html#focus |
 | WAI-ARIA Roles | https://www.w3.org/TR/wai-aria-1.0/roles#superclassrole |
+| WCAG Contrast checker | https://chrome.google.com/webstore/detail/wcag-contrast-checker/plnahcmalebffmaghcpcmpaciebdhgdf |
+| NoCofee vision simulator | https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl |
 
 ## 4. Progressive Web Apps
 | Description   | URL           | 

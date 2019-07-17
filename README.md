@@ -56,6 +56,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Oficial Training Guide for PWA | [Official Training](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0) |
 | Official documentation for PWA by Google | https://developers.google.com/web/progressive-web-apps/ |
 | PWA Training by Google | https://developers.google.com/web/ilt/pwa/ |
+| Offline Cookbook | https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/ |
 
 
 ## 5. Performance

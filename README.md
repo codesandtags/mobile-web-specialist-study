@@ -54,6 +54,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | ------------- |:-------------:| 
 | Image Capture API Demo | https://simpl.info/imagecapture/ |
 | Oficial Training Guide for PWA | [Official Training](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0) |
+| Official documentation for PWA by Google | https://developers.google.com/web/progressive-web-apps/ |
 
 
 ## 5. Performance

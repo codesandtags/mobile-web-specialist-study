@@ -57,6 +57,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Official documentation for PWA by Google | https://developers.google.com/web/progressive-web-apps/ |
 | PWA Training by Google | https://developers.google.com/web/ilt/pwa/ |
 | Offline Cookbook | https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/ |
+| Workbox library to work offline | https://developers.google.com/web/tools/workbox/ |
 
 
 ## 5. Performance

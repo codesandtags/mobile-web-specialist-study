@@ -58,6 +58,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | PWA Training by Google | https://developers.google.com/web/ilt/pwa/ |
 | Offline Cookbook | https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/ |
 | Workbox library to work offline | https://developers.google.com/web/tools/workbox/ |
+| Sending push notifications with Vapid and Firebase | https://labs.bawi.io/web-push-notifications-through-vapid-method-7d4d6927a006 |
 
 
 ## 5. Performance

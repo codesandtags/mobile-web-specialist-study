@@ -65,8 +65,11 @@ Here you will find the links that I've read in order to get the knowledge for ea
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
+| Performance Guide | https://developers.google.com/training/certification/mobile-web-specialist/study-guide/performance |
 | Brotli Compresion Algorithm | https://github.com/google/brotli |
 | Difference between defer and async in html | http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html |
+| Importance of performance | https://developers.google.com/web/fundamentals/performance/why-performance-matters/ |
+| Importance of App Shell | https://developers.google.com/web/fundamentals/architecture/app-shell |
 
 ## 6. Testing and Debugging
 | Description   | URL           | 

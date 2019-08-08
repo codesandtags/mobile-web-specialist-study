@@ -71,6 +71,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Importance of performance | https://developers.google.com/web/fundamentals/performance/why-performance-matters/ |
 | Importance of App Shell | https://developers.google.com/web/fundamentals/architecture/app-shell |
 | Next generation compression with brotli | https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/|
+| Preload and Prefetch with link | https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf |
 
 
 ## 6. Testing and Debugging

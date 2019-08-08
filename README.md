@@ -77,6 +77,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Debugging Javascript applications | https://itnext.io/how-to-debug-javascript-applications-and-tests-9718fe610f7d |
+| Debugging applications with Service Workers | https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers/ |
 
 
 ## 7. JavaScfript / ES6 / ES7 / ESX

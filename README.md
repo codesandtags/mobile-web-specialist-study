@@ -88,6 +88,7 @@ Here you will find the links that I've read in order to get the knowledge for ea
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | JavaScript top Tutorials | https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e |
+| JavaScript Intl Formatters | https://blog.bitsrc.io/new-intl-apis-in-javascript-c50dc89d2cf3 |
 
 
 
